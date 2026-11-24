@@ -1,0 +1,27 @@
+# Base Data & Web Parsing
+streamlit
+pandas
+numpy
+Pillow
+requests
+ta
+lxml
+html5lib
+yfinance
+matplotlib
+beautifulsoup4
+
+
+# Enhanced UX & Layout Components
+streamlit-option-menu
+streamlit-extras
+streamlit-shadcn-ui
+streamlit-elements
+
+
+# Interactive Visualization
+plotly
+streamlit-lightweight-charts
+
+#database 
+psycopg2-binary
