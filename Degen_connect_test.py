@@ -3085,7 +3085,6 @@ def crypto_quantitative_analysis():
     # TAB 2: TOP CRYPTOCURRENCIES
     # ---------------------------------------------------------
     with tab2:
-        #scrapping()
         scrapping_coingeckoAPI()
 
     # ---------------------------------------------------------
@@ -3363,7 +3362,6 @@ def main():
     choice = st.sidebar.selectbox("Menu", menu)
 
     if choice == "Home":
-        #scrapping()
         scrapping_coingeckoAPI()
 
     elif choice == "Login":
